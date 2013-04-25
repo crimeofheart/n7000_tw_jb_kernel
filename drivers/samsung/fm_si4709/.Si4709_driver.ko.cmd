@@ -1,1 +1,0 @@
-cmd_drivers/samsung/fm_si4709/Si4709_driver.ko := /home/ali/android/kernel/toolchains/arm-eabi-4.4.3/bin/arm-eabi-ld -EL -r  -T /home/ali/android/kernel/GT-N7000_JB_Kernel/scripts/module-common.lds --build-id  -o drivers/samsung/fm_si4709/Si4709_driver.ko drivers/samsung/fm_si4709/Si4709_driver.o drivers/samsung/fm_si4709/Si4709_driver.mod.o

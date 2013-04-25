@@ -1,5 +1,0 @@
-kernel/drivers/sensor/k3dh.ko
-kernel/drivers/sensor/k3g.ko
-kernel/drivers/sensor/ak8975.ko
-kernel/drivers/sensor/gp2a_analog.ko
-kernel/drivers/sensor/bmp180.ko

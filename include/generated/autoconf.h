@@ -758,7 +758,7 @@
 #define CONFIG_FRAME_WARN 1024
 #define CONFIG_RCU_CPU_STALL_VERBOSE 1
 #define CONFIG_GENERIC_HWEIGHT 1
-#define CONFIG_INITRAMFS_SOURCE "/home/ali/android/kernel/GT-N7000_JB_Kernel/initramfs"
+#define CONFIG_INITRAMFS_SOURCE "/home/ali/android/kernel/n7000_tw_jb_kernel/initramfs"
 #define CONFIG_CGROUPS 1
 #define CONFIG_MMC 1
 #define CONFIG_VIDEO_MFC_MEM_PORT_COUNT 2
