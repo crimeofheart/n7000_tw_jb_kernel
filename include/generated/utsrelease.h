@@ -1,1 +1,1 @@
-#define UTS_RELEASE "3.0.31-N7000-c.o.h.-g91fe7a0-dirty"
+#define UTS_RELEASE "3.0.31-gc0998db-dirty"

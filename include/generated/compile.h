@@ -1,7 +1,7 @@
-/* This file is auto generated, version 2 */
+/* This file is auto generated, version 3 */
 /* SMP PREEMPT */
 #define UTS_MACHINE "arm"
-#define UTS_VERSION "#2 SMP PREEMPT Wed Apr 24 17:15:42 PDT 2013"
+#define UTS_VERSION "#3 SMP PREEMPT Thu Apr 25 16:18:42 CEST 2013"
 #define LINUX_COMPILE_BY "ali"
 #define LINUX_COMPILE_HOST "ubuntu"
 #define LINUX_COMPILER "gcc version 4.4.3 (GCC) "
